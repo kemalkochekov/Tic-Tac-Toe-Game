@@ -1,4 +1,4 @@
-#Tic Tac Toe Game Description
+# Tic Tac Toe Game Description
 two players who take turns marking the spaces in a three-by-three grid with X or O. 
 The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 # Requirements
@@ -9,4 +9,4 @@ The player who succeeds in placing three of their marks in a horizontal, vertica
 ```
 $:~/python Main.py
 ```
-#Picture
+# Picture
