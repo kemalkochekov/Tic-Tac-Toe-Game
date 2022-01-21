@@ -10,3 +10,4 @@ The player who succeeds in placing three of their marks in a horizontal, vertica
 $:~/python Main.py
 ```
 # Picture
+![output-onlinepngtools](https://user-images.githubusercontent.com/85355663/150594834-241de146-a4ae-4672-932f-2fa683ff97e0.png)
